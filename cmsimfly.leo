@@ -947,11 +947,11 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 &lt;script type="text/javascript" src="/static/gearUtils-05.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython.js"&gt;&lt;/script&gt;
 &lt;script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"&gt;&lt;/script&gt;
-img{
-    border:3px solid black:
+img {
+    border: 3px solid black:
 }       
+&lt;/style&gt;
 '''
-
 
 </t>
 <t tx="amd.20160714232140.1"># 與 file_selector 搭配的取檔程式
