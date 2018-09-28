@@ -2001,10 +2001,6 @@ def syntaxhighlight():
 <script type="text/javascript" src="/static/gearUtils-05.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
-img {
-    border: 3px solid black;
-}       
-</style>
 '''
 
 def syntaxhighlight2():
@@ -2049,10 +2045,6 @@ init_mathjax();
 <script type="text/javascript" src="./../static/gearUtils-05.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython.js"></script>
 <script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
-img {
-    border: 3px solid black;
-}       
-</style>
 '''
 
 def tinymce_editor(menu_input=None, editor_content=None, page_order=None):
