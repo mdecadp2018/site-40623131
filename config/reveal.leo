@@ -24,7 +24,39 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181109043743.1"><vh>第一週</vh>
+<v t="leo.20181109044312.1"><vh>課程內容</vh></v>
+<v t="leo.20181109043743.3"><vh>課程影片</vh></v>
+</v>
+<v t="leo.20181109045028.1"><vh>第二週</vh>
+<v t="leo.20181109045028.2"><vh>課程內容</vh></v>
+<v t="leo.20181109045028.3"><vh>課程影片</vh></v>
+</v>
+<v t="leo.20181109045030.1"><vh>第三週</vh>
+<v t="leo.20181109045030.2"><vh>課程內容</vh></v>
+<v t="leo.20181109045030.3"><vh>課程影片</vh></v>
+</v>
+<v t="leo.20181109045111.1"><vh>第四週</vh>
+<v t="leo.20181109045111.2"><vh>課程內容</vh></v>
+<v t="leo.20181109045111.3"><vh>課程影片</vh></v>
+</v>
+<v t="leo.20181109045112.1"><vh>第五週</vh>
+<v t="leo.20181109045112.2"><vh>課程內容</vh></v>
+<v t="leo.20181109045112.3"><vh>課程影片</vh></v>
+</v>
+<v t="leo.20181109045113.1"><vh>第六週</vh>
+<v t="leo.20181109045113.2"><vh>課程內容</vh></v>
+<v t="leo.20181109045113.3"><vh>課程影片</vh></v>
+</v>
+<v t="leo.20181109045115.1"><vh>第七週</vh>
+<v t="leo.20181109045115.2"><vh>課程內容</vh></v>
+<v t="leo.20181109045115.3"><vh>課程影片</vh></v>
+</v>
+<v t="leo.20181109045116.1"><vh>第八週</vh>
+<v t="leo.20181109045116.2"><vh>課程內容</vh></v>
+<v t="leo.20181109045116.3"><vh>課程影片</vh></v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -129,10 +161,14 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623131](https://github.com/40623131)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[倉儲](https://github.com/mdecadp2018/site-40623131)
+
+[網站](https://mdecadp2018.github.io/site-40623131)
+
+[部落格](https://mdecadp2018.github.io/site-40623131/blog)
 
 
 </t>
@@ -325,6 +361,211 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181109043743.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109043743.3">
+##課程影片
+
+[說明如何利用 p37 中的 git 建立個人的 Github Pages 網站](https://www.youtube.com/watch?v=ax2ZuPm3YXc)
+
+[說明如何管理個人的期中作業網站內容](https://www.youtube.com/watch?v=sD9slKyFNao)
+
+[說明如何管理期中作業倉儲中的網際投影片](https://www.youtube.com/watch?v=3SR7vom0YA8)
+</t>
+<t tx="leo.20181109044312.1"># 第一週
+
+##課程內容
+
+登入 Github 帳號後，領取個人的作業倉儲，此倉儲內容取自: 2018fall, 示範網站，各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據。
+
+</t>
+<t tx="leo.20181109045028.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109045028.2"># 第二週
+
+##課程內容
+
+學會如何管理各自位於 [Github Classroom](https://github.com/mdecadp2018/) 中的期中作業倉儲, 然後在 W9 前, 自行掌握進度, 每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中.
+
+</t>
+<t tx="leo.20181109045028.3">
+##課程影片
+
+[說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲](https://www.youtube.com/watch?v=hEkMv2KqixY)
+
+[說明如何管理網際投影片與網誌](https://www.youtube.com/watch?v=PNfuu95a3ns)</t>
+<t tx="leo.20181109045030.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109045030.2"># 第三週
+
+##課程內容
+
+[git 常用指令](https://mde.tw/cadp2018/content/Git.html)
+
+開始學習使用[Onshape](https://www.onshape.com/) 進行繪圖練習
+
+[OnshapeWeek1 課程進度](https://mde.tw/cadp2018/content/OnshapeWeek%201.html)
+
+Onshape 是一套純雲端 MCAD (Mechanical Computer Aided Design) 套件, 可以利用電腦中的瀏覽器, 手機或平板中的 App, 就可以執行 2D/3D 零組件設計繪圖.
+</t>
+<t tx="leo.20181109045030.3">
+##課程影片
+
+[git 基本操作練習](https://www.youtube.com/watch?v=158Ir6Mni60)
+</t>
+<t tx="leo.20181109045111.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109045111.2"># 第四週
+
+##課程內容
+
+期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明
+Onshape 課程使用說明</t>
+<t tx="leo.20181109045111.3">
+##課程影片
+
+[期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明](https://www.youtube.com/watch?v=nMU9bYx0vPc)
+
+[Onshape week1 課程使用說明](https://www.youtube.com/watch?v=UdYcuRKS6o4)
+</t>
+<t tx="leo.20181109045112.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109045112.2"># 第五週
+
+##課程內容
+
+Onshape 的設計繪圖說明
+
+Variable 定義簡化繪圖流程
+</t>
+<t tx="leo.20181109045112.3">
+##課程影片
+
+[Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug 設定處理](https://www.youtube.com/watch?v=XZZXFytiRtM)
+
+[onshape 設計繪圖說明, 有關 Part Studio 中可放入多零件檔案, 以及如何利用 variable 定義簡化繪圖流程](https://www.youtube.com/watch?v=0SKgCf2zJV8)
+
+[從 Onshapeweek1 課程到 Onshapeweek2](https://www.youtube.com/watch?v=GE48pZWK8vI)
+</t>
+<t tx="leo.20181109045113.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109045113.2"># 第六週
+
+##課程內容
+
+利用lab-booking-cdlab說明管理內容流程
+
+如何更新CMSimfly
+
+電腦輔助設計實習教室[協同設計室行事曆](https://mdecdlab.github.io/lab-booking-cdlab/doc/content/mde8F.html)
+
+講解利用記事本安排人事時地物等關鍵內容
+
+</t>
+<t tx="leo.20181109045113.3">
+##課程影片
+
+[以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程](https://www.youtube.com/watch?v=6ULAecjorvU)
+
+[說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py](https://www.youtube.com/watch?v=mH_tW3erBqs)
+
+[說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排](https://www.youtube.com/watch?v=i0zDhlxAJmk)
+
+</t>
+<t tx="leo.20181109045115.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109045115.2"># 第七週
+
+##課程內容
+
+Github 無法登入的問題，網路裝置與資料庫故障，導致發生此一事件。
+
+與其發生問題時處理方法。
+
+</t>
+<t tx="leo.20181109045115.3">
+##課程影片
+
+[說明如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料](https://www.youtube.com/watch?v=KiXEszwLXO0)
+
+[說明在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可更新程式碼或回報問題的流程](https://www.youtube.com/watch?v=WEsFrcuffOA)
+
+[說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM](https://www.youtube.com/watch?v=JA75HIMhIgk)
+
+[展示如何在先前所建立的虛擬 Ubuntu 18.04 上啟動 https 協定下的 Fossil SCM 伺服器](https://www.youtube.com/watch?v=nju615KXghM)
+</t>
+<t tx="leo.20181109045116.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109045116.2"># 第八週
+
+##課程內容
+
+Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔助機械設計繪圖，此一雲端工具在假設網路無所不在的環境中，新產品開發團隊成員可以利用雲般無所不在，且毫無限制的電腦輔助設計套件，協同完成各式零組件的設計與繪製。
+
+所謂雲端應用的特性是:用多少運算資源，才開啟多少運算資源，可最佳化且不至超載。
+
+</t>
+<t tx="leo.20181109045116.3">
+##課程影片
+
+[說明機電資整合設計專案流程所需的相關套件運用與技術](https://www.youtube.com/watch?v=yAzfQm2gBEQ)
 </t>
 </tnodes>
 </leo_file>
