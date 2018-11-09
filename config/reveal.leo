@@ -25,8 +25,12 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181109043743.1"><vh>第一週</vh>
-<v t="leo.20181109044312.1"><vh>課程內容</vh></v>
+<v t="leo.20181109080413.1" a="E"><vh>課程內容</vh>
+<v t="leo.20181109080413.2"><vh>課程內容</vh></v>
+</v>
+<v t="leo.20181109080005.1" a="E"><vh>課程影片</vh>
 <v t="leo.20181109043743.3"><vh>課程影片</vh></v>
+</v>
 </v>
 <v t="leo.20181109045028.1"><vh>第二週</vh>
 <v t="leo.20181109045028.2"><vh>課程內容</vh></v>
@@ -362,10 +366,8 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109043743.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20181109043743.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
 
@@ -379,13 +381,6 @@ make.start()
 [說明如何管理個人的期中作業網站內容](https://www.youtube.com/watch?v=sD9slKyFNao)
 
 [說明如何管理期中作業倉儲中的網際投影片](https://www.youtube.com/watch?v=3SR7vom0YA8)
-</t>
-<t tx="leo.20181109044312.1"># 第一週
-
-##課程內容
-
-登入 Github 帳號後，領取個人的作業倉儲，此倉儲內容取自: 2018fall, 示範網站，各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據。
-
 </t>
 <t tx="leo.20181109045028.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -408,7 +403,9 @@ make.start()
 
 [說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲](https://www.youtube.com/watch?v=hEkMv2KqixY)
 
-[說明如何管理網際投影片與網誌](https://www.youtube.com/watch?v=PNfuu95a3ns)</t>
+[說明如何管理網際投影片與網誌](https://www.youtube.com/watch?v=PNfuu95a3ns)
+
+</t>
 <t tx="leo.20181109045030.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -449,7 +446,9 @@ Onshape 是一套純雲端 MCAD (Mechanical Computer Aided Design) 套件, 可�
 ##課程內容
 
 期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明
-Onshape 課程使用說明</t>
+Onshape 課程使用說明
+
+</t>
 <t tx="leo.20181109045111.3">
 ##課程影片
 
@@ -566,6 +565,25 @@ Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔
 ##課程影片
 
 [說明機電資整合設計專案流程所需的相關套件運用與技術](https://www.youtube.com/watch?v=yAzfQm2gBEQ)
+</t>
+<t tx="leo.20181109080005.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181109080413.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181109080413.2"># 第一週
+
+##課程內容
+
+登入 Github 帳號後，領取個人的作業倉儲，此倉儲內容取自: 2018fall, 示範網站，各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據。
+
 </t>
 </tnodes>
 </leo_file>
