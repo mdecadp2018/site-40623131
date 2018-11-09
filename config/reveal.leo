@@ -21,44 +21,78 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181109043743.1"><vh>第一週</vh>
-<v t="leo.20181109080413.1" a="E"><vh>課程內容</vh>
+<v t="leo.20181109080413.1"><vh>課程內容</vh>
 <v t="leo.20181109080413.2"><vh>課程內容</vh></v>
 </v>
 <v t="leo.20181109080005.1" a="E"><vh>課程影片</vh>
 <v t="leo.20181109043743.3"><vh>課程影片</vh></v>
 </v>
+<v t="leo.20181109081832.1" a="E"><vh>操作影片</vh>
+<v t="leo.20181109081832.2"><vh>影片</vh></v>
+</v>
 </v>
 <v t="leo.20181109045028.1"><vh>第二週</vh>
-<v t="leo.20181109045028.2"><vh>課程內容</vh></v>
-<v t="leo.20181109045028.3"><vh>課程影片</vh></v>
+<v t="leo.20181109081806.1"><vh>課程內容</vh>
+<v t="leo.20181109081806.2"><vh>課程內容</vh></v>
+</v>
+<v t="leo.20181109082205.1" a="E"><vh>課程影片</vh>
+<v t="leo.20181109082205.2"><vh>課程影片</vh></v>
+</v>
+<v t="leo.20181109082222.1" a="E"><vh>操作影片</vh>
+<v t="leo.20181109082222.2"><vh>影片</vh></v>
+</v>
 </v>
 <v t="leo.20181109045030.1"><vh>第三週</vh>
-<v t="leo.20181109045030.2"><vh>課程內容</vh></v>
-<v t="leo.20181109045030.3"><vh>課程影片</vh></v>
+<v t="leo.20181109082336.1" a="E"><vh>課程內容</vh>
+<v t="leo.20181109082336.2"><vh>課程內容</vh></v>
+</v>
+<v t="leo.20181109082327.1" a="E"><vh>課程影片</vh>
+<v t="leo.20181109082327.2"><vh>課程影片</vh></v>
+</v>
 </v>
 <v t="leo.20181109045111.1"><vh>第四週</vh>
-<v t="leo.20181109045111.2"><vh>課程內容</vh></v>
-<v t="leo.20181109045111.3"><vh>課程影片</vh></v>
+<v t="leo.20181109082351.1" a="E"><vh>課程內容</vh>
+<v t="leo.20181109082351.2"><vh>課程內容</vh></v>
+</v>
+<v t="leo.20181109082417.1" a="E"><vh>課程影片</vh>
+<v t="leo.20181109082417.2"><vh>課程影片</vh></v>
+</v>
 </v>
 <v t="leo.20181109045112.1"><vh>第五週</vh>
-<v t="leo.20181109045112.2"><vh>課程內容</vh></v>
-<v t="leo.20181109045112.3"><vh>課程影片</vh></v>
+<v t="leo.20181109082407.1" a="E"><vh>課程內容</vh>
+<v t="leo.20181109082407.2"><vh>課程內容</vh></v>
+</v>
+<v t="leo.20181109082420.1" a="E"><vh>課程影片</vh>
+<v t="leo.20181109082420.2"><vh>課程影片</vh></v>
+</v>
 </v>
 <v t="leo.20181109045113.1"><vh>第六週</vh>
-<v t="leo.20181109045113.2"><vh>課程內容</vh></v>
-<v t="leo.20181109045113.3"><vh>課程影片</vh></v>
+<v t="leo.20181109082405.1" a="E"><vh>課程內容</vh>
+<v t="leo.20181109082405.2"><vh>課程內容</vh></v>
+</v>
+<v t="leo.20181109082422.1" a="E"><vh>課程影片</vh>
+<v t="leo.20181109082422.2"><vh>課程影片</vh></v>
+</v>
 </v>
 <v t="leo.20181109045115.1"><vh>第七週</vh>
-<v t="leo.20181109045115.2"><vh>課程內容</vh></v>
-<v t="leo.20181109045115.3"><vh>課程影片</vh></v>
+<v t="leo.20181109082403.1" a="E"><vh>課程內容</vh>
+<v t="leo.20181109082403.2"><vh>課程內容</vh></v>
+</v>
+<v t="leo.20181109082424.1" a="E"><vh>課程影片</vh>
+<v t="leo.20181109082424.2"><vh>課程影片</vh></v>
+</v>
 </v>
 <v t="leo.20181109045116.1"><vh>第八週</vh>
-<v t="leo.20181109045116.2"><vh>課程內容</vh></v>
-<v t="leo.20181109045116.3"><vh>課程影片</vh></v>
+<v t="leo.20181109082400.1"><vh>課程內容</vh>
+<v t="leo.20181109082400.2"><vh>課程內容</vh></v>
+</v>
+<v t="leo.20181109082427.1"><vh>課程影片</vh>
+<v t="leo.20181109082427.2"><vh>課程影片</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -67,7 +101,7 @@
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
@@ -368,13 +402,8 @@ make.start()
 </t>
 <t tx="leo.20181109043743.1">&lt;section&gt;
 @others
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109043743.3">
-##課程影片
+&lt;/section&gt;</t>
+<t tx="leo.20181109043743.3">##課程影片
 
 [說明如何利用 p37 中的 git 建立個人的 Github Pages 網站](https://www.youtube.com/watch?v=ax2ZuPm3YXc)
 
@@ -391,21 +420,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109045028.2"># 第二週
-
-##課程內容
-
-學會如何管理各自位於 [Github Classroom](https://github.com/mdecadp2018/) 中的期中作業倉儲, 然後在 W9 前, 自行掌握進度, 每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中.
-
-</t>
-<t tx="leo.20181109045028.3">
-##課程影片
-
-[說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲](https://www.youtube.com/watch?v=hEkMv2KqixY)
-
-[說明如何管理網際投影片與網誌](https://www.youtube.com/watch?v=PNfuu95a3ns)
-
-</t>
 <t tx="leo.20181109045030.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -415,7 +429,173 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109045030.2"># 第三週
+<t tx="leo.20181109045111.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109045112.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109045113.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109045115.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109045116.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109080005.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109080413.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109080413.2"># 第一週
+
+##課程內容
+
+登入 Github 帳號後，領取個人的作業倉儲，此倉儲內容取自: 2018fall, 示範網站，各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據。
+
+</t>
+<t tx="leo.20181109081806.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109081806.2"># 第二週
+
+##課程內容
+
+學會如何管理各自位於 [Github Classroom](https://github.com/mdecadp2018/) 中的期中作業倉儲, 然後在 W9 前, 自行掌握進度, 每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中.
+
+</t>
+<t tx="leo.20181109081832.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109081832.2">#Onshape-w1
+
+&lt;iframe width="640" height="492" src="https://www.youtube.com/embed/-YtFC6eAink" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181109082205.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109082205.2">##課程影片
+
+[說明如何以 ShareX 取圖, 如何管理 CMSimfly 作業倉儲](https://www.youtube.com/watch?v=hEkMv2KqixY)
+
+[說明如何管理網際投影片與網誌](https://www.youtube.com/watch?v=PNfuu95a3ns)
+
+</t>
+<t tx="leo.20181109082222.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109082222.2">#Onshape-w1
+
+&lt;iframe width="640" height="492" src="https://www.youtube.com/embed/-YtFC6eAink" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181109082327.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109082327.2">##課程影片
+
+[git 基本操作練習](https://www.youtube.com/watch?v=158Ir6Mni60)
+</t>
+<t tx="leo.20181109082336.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109082336.2"># 第三週
 
 ##課程內容
 
@@ -427,21 +607,18 @@ make.start()
 
 Onshape 是一套純雲端 MCAD (Mechanical Computer Aided Design) 套件, 可以利用電腦中的瀏覽器, 手機或平板中的 App, 就可以執行 2D/3D 零組件設計繪圖.
 </t>
-<t tx="leo.20181109045030.3">
-##課程影片
-
-[git 基本操作練習](https://www.youtube.com/watch?v=158Ir6Mni60)
-</t>
-<t tx="leo.20181109045111.1">&lt;section data-markdown&gt;
+<t tx="leo.20181109082351.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181109045111.2"># 第四週
+<t tx="leo.20181109082351.2"># 第四週
 
 ##課程內容
 
@@ -449,49 +626,58 @@ Onshape 是一套純雲端 MCAD (Mechanical Computer Aided Design) 套件, 可�
 Onshape 課程使用說明
 
 </t>
-<t tx="leo.20181109045111.3">
-##課程影片
-
-[期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明](https://www.youtube.com/watch?v=nMU9bYx0vPc)
-
-[Onshape week1 課程使用說明](https://www.youtube.com/watch?v=UdYcuRKS6o4)
-</t>
-<t tx="leo.20181109045112.1">&lt;section data-markdown&gt;
+<t tx="leo.20181109082400.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181109045112.2"># 第五週
+<t tx="leo.20181109082400.2"># 第八週
 
 ##課程內容
 
-Onshape 的設計繪圖說明
+Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔助機械設計繪圖，此一雲端工具在假設網路無所不在的環境中，新產品開發團隊成員可以利用雲般無所不在，且毫無限制的電腦輔助設計套件，協同完成各式零組件的設計與繪製。
 
-Variable 定義簡化繪圖流程
+所謂雲端應用的特性是:用多少運算資源，才開啟多少運算資源，可最佳化且不至超載。
+
 </t>
-<t tx="leo.20181109045112.3">
-##課程影片
-
-[Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug 設定處理](https://www.youtube.com/watch?v=XZZXFytiRtM)
-
-[onshape 設計繪圖說明, 有關 Part Studio 中可放入多零件檔案, 以及如何利用 variable 定義簡化繪圖流程](https://www.youtube.com/watch?v=0SKgCf2zJV8)
-
-[從 Onshapeweek1 課程到 Onshapeweek2](https://www.youtube.com/watch?v=GE48pZWK8vI)
-</t>
-<t tx="leo.20181109045113.1">&lt;section data-markdown&gt;
+<t tx="leo.20181109082403.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181109045113.2"># 第六週
+<t tx="leo.20181109082403.2"># 第七週
+
+##課程內容
+
+Github 無法登入的問題，網路裝置與資料庫故障，導致發生此一事件。
+
+與其發生問題時處理方法。
+
+</t>
+<t tx="leo.20181109082405.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109082405.2"># 第六週
 
 ##課程內容
 
@@ -504,8 +690,73 @@ Variable 定義簡化繪圖流程
 講解利用記事本安排人事時地物等關鍵內容
 
 </t>
-<t tx="leo.20181109045113.3">
-##課程影片
+<t tx="leo.20181109082407.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109082407.2"># 第五週
+
+##課程內容
+
+Onshape 的設計繪圖說明
+
+Variable 定義簡化繪圖流程
+</t>
+<t tx="leo.20181109082417.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109082417.2">##課程影片
+
+[期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明](https://www.youtube.com/watch?v=nMU9bYx0vPc)
+
+[Onshape week1 課程使用說明](https://www.youtube.com/watch?v=UdYcuRKS6o4)
+</t>
+<t tx="leo.20181109082420.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109082420.2">##課程影片
+
+[Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug 設定處理](https://www.youtube.com/watch?v=XZZXFytiRtM)
+
+[onshape 設計繪圖說明, 有關 Part Studio 中可放入多零件檔案, 以及如何利用 variable 定義簡化繪圖流程](https://www.youtube.com/watch?v=0SKgCf2zJV8)
+
+[從 Onshapeweek1 課程到 Onshapeweek2](https://www.youtube.com/watch?v=GE48pZWK8vI)
+</t>
+<t tx="leo.20181109082422.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109082422.2">##課程影片
 
 [以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程](https://www.youtube.com/watch?v=6ULAecjorvU)
 
@@ -514,26 +765,18 @@ Variable 定義簡化繪圖流程
 [說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排](https://www.youtube.com/watch?v=i0zDhlxAJmk)
 
 </t>
-<t tx="leo.20181109045115.1">&lt;section data-markdown&gt;
+<t tx="leo.20181109082424.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181109045115.2"># 第七週
-
-##課程內容
-
-Github 無法登入的問題，網路裝置與資料庫故障，導致發生此一事件。
-
-與其發生問題時處理方法。
-
-</t>
-<t tx="leo.20181109045115.3">
-##課程影片
+<t tx="leo.20181109082424.2">##課程影片
 
 [說明如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料](https://www.youtube.com/watch?v=KiXEszwLXO0)
 
@@ -543,47 +786,20 @@ Github 無法登入的問題，網路裝置與資料庫故障，導致發生此�
 
 [展示如何在先前所建立的虛擬 Ubuntu 18.04 上啟動 https 協定下的 Fossil SCM 伺服器](https://www.youtube.com/watch?v=nju615KXghM)
 </t>
-<t tx="leo.20181109045116.1">&lt;section data-markdown&gt;
+<t tx="leo.20181109082427.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+
 
 
 						
 </t>
-<t tx="leo.20181109045116.2"># 第八週
-
-##課程內容
-
-Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔助機械設計繪圖，此一雲端工具在假設網路無所不在的環境中，新產品開發團隊成員可以利用雲般無所不在，且毫無限制的電腦輔助設計套件，協同完成各式零組件的設計與繪製。
-
-所謂雲端應用的特性是:用多少運算資源，才開啟多少運算資源，可最佳化且不至超載。
-
-</t>
-<t tx="leo.20181109045116.3">
-##課程影片
+<t tx="leo.20181109082427.2">##課程影片
 
 [說明機電資整合設計專案流程所需的相關套件運用與技術](https://www.youtube.com/watch?v=yAzfQm2gBEQ)
-</t>
-<t tx="leo.20181109080005.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181109080413.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181109080413.2"># 第一週
-
-##課程內容
-
-登入 Github 帳號後，領取個人的作業倉儲，此倉儲內容取自: 2018fall, 示範網站，各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據。
-
 </t>
 </tnodes>
 </leo_file>
